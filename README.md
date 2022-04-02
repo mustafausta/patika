@@ -1,2 +1,2 @@
-# patika
+# Patika
 Patika Projects
